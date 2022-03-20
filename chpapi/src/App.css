@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+
+}
+
+* {
+  text-align: center;
+  background-color: green;
+  font-size: 30px;
+  font-weight: lighter;
+}
+li {
+  list-style: none;
+  color: yellow;
+}
